@@ -11,7 +11,7 @@ body {
 
 .main-container {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: space-between;
     box-sizing: border-box;
     overflow: hidden;
@@ -572,4 +572,5 @@ ul {
 
 .zoom-svg {
     pointer-events: none;
+
 }
